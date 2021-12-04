@@ -1,0 +1,10 @@
+{
+  "simulation": "GoRest.UserSimulation",
+  "simulationId": "usersimulation",
+  "start": 1638618733076,
+  "description": "",
+  "scenarios": ["Post User", "Get User", "Put User", "Delete User"],
+  "assertions": [
+
+  ]
+}
